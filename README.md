@@ -110,4 +110,10 @@ I am a software developer in continuous learning
 
 ---
 
+### My GitHub Stats:
+
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariel15682&show=reviews&show_icons=true&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel15682&hide=javascript,python&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|
+| ------------- | ------------- |
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariel15682" width="64%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ariel15682" width="31%" />
 
