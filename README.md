@@ -26,3 +26,88 @@ I am a software developer in continuous learning
 </td></tr></table>
 
 ---
+
+### Tech-Stack:
+
+<table><tr><td valign="top" width="33%">
+
+### Backend:  
+<b>Languages & Frameworks:</b>
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://docs.spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="45" /></a>  
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Hibernate.png" height="50" />
+</div>  
+
+### DataBases:  
+<div align="center">  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Tools:  
+<b>(OS-IDE-Others)</b>
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a> 
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/VirtualBox.png" height="25" />
+<br/>    
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/IntelliJ.png" height="25" /></a>
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Eclipse.png" height="25" /></a> 
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/VSCode.png" height="25"/>
+<br/>
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Maven.png" height="15" />
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Swagger.png" height="25" />
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Thymeleaf.png" height="25" />
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Lombok.png" height="25" />
+<br/>
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Jira.png" alt="Jira" height="15" /> 
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Trello.png" alt="Trello" height="15" /> 
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Slack.png" alt="Slack" height="15" />
+<br/>
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/SQL.png" height="25" />
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/DBeaver2.png" height="25" />
+</div>
+
+### Testing/Metrics: 
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/JUnit.png" height="15"/>
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Mockito.png" height="35"/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" height="25" />
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Selenium.png" height="25" />
+<a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="25"/></a> 
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/CodeCov.png" height="25" />
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/SonarQube.png" height="15" />
+<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/PiTest.png" height="25" />
+</div>
+</td>
+
+<td valign="top" width="33%">
+    
+### DevOps:
+<b>VCS/SCM-CI/CD:</b>
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="25" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" height="25" /></a> 
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
+</div>  
+
+### Infrastructure: 
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="45" /> 
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+---
+
+
