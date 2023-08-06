@@ -118,3 +118,6 @@ I am a software developer in continuous learning
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariel15682" width="64%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ariel15682" width="31%" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ariel15682&margin-w=9&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/MacroPower/MacroPower"><img src="https://komarev.com/ghpvc/?username=Ariel15682" alt="page views" />
+<!-- ![](https://komarev.com/ghpvc/?username=Ariel15682&style=flat&color=313131&label=views)-->
