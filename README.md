@@ -20,7 +20,7 @@ I am a software developer in continuous learning
 - 💻 Backend & DevOps; API RESTful, CRUD MVC development using Agile/Scrum paradigm and Clean Code
 - 🌱 Enthusiast in Cyber Security; Ethical Hacking, Pentesting, Incident Response, Forensic Science and Open Source Tools
 - 🏁 **2024 goals:** I'll get a developer job
-- ⚡ I enjoy spending time with my family, traveling, nature and reading technical books about electronics, IoT, networking
+- ⚡ I enjoy spending time with my family, traveling, nature and reading technical books about electronics, IoT,networks & comunications
 - 📫 How to reach me: arieldiaz05@gmail.com
 
 </td></tr></table>
