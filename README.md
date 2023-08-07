@@ -21,7 +21,7 @@ I am a software developer in continuous learning
 - 🌱 Enthusiast in Cyber Security; Ethical Hacking, Pentesting, Incident Response, Forensic Science and Open Source Tools
 - 🏁 **2024 goals:** I'll get a developer job
 - ⚡ I enjoy spending time with my family, traveling, nature and reading technical books about electronics, IoT,networks & comunications
-- 📫 How to reach me: arieldiaz05@gmail.com
+- 📫 How to reach me:  <a href="mailto:arieldiaz05@gmail.com"><img style="valign: bottom" src="/images/gmail.png" width="35"></a> <a href="https://www.linkedin.com/in/arieldiaz150682/" target="_blank"><img style="margin: 10px" src="/images/LinkedIN.png" width="35"></a>
 
 </td></tr></table>
 
