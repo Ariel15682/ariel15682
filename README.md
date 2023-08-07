@@ -17,7 +17,7 @@ I am a software developer in continuous learning
     - Lucas Moy/ATL Academy (YouTube): Java, (2021)
     - OpenBootcamp (España): Java | Hibernate | Spring Boot | Spring MVC | Spring Data JPA | Spring Security, (2021-2023)
     - Others: FreeCodeCamp | W3School
-- 💻 Backend & DevOps; API RESTful, CRUD MVC development using Agile/Scrum paradigm and Clean Code
+- 💻 Backend & DevOps; API RESTful, CRUD operations, MVC development using Agile/Scrum paradigm and Clean Code
 - 🌱 Enthusiast in Cyber Security; Ethical Hacking, Pentesting, Incident Response, Forensic Science and Open Source Tools
 - 🏁 **2024 goals:** I'll get a developer job
 - ⚡ I enjoy spending time with my family, traveling, nature and reading technical books about electronics, IoT,networks & comunications
