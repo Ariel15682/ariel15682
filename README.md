@@ -17,7 +17,9 @@ I am a software developer in continuous learning
     - <a href="https://www.aprenderaprogramar.com" target="_blank">Aprender a programar:</a> (2021) "Java desde 0", "Java Nivel Avanzado 1"
     - OpenBootcamp (España): Java | Hibernate | Spring Boot | Spring MVC | Spring Data JPA | Spring Security, (2021-2023)
     - Lucas Moy/ATL Academy (YouTube): (2021) Curso/Bootcamp Java
-    - ![image](https://cdn.emojidex.com/emoji/px32/YouTube.png?1512927079) FreeCodeCamp | W3School | La Geekipedia de Ernesto | La Tecnologia Avanza | Programando en Java | Programacion ATS
+    - <a href="https://www.tutorialesprogramacionya.com" target="_blank">tutorialesprogramacionya.com</a> 
+    - <a href="https://www.discoduroderoer.es/curso-java/ " target="_blank">Disco Duro de Roer.es</a> 
+    - ![image](https://github.com/Ariel15682/Ariel15682/blob/main/images/YouTube.png) Aula en la nuve | FreeCodeCamp | La Geekipedia de Ernesto | La Tecnologia Avanza | Programando en Java | Programacion ATS | Programar Ya | W3School 
 - 💻 Backend & DevOps; API RESTful, CRUD operations, MVC development using Agile/Scrum paradigm and Clean Code
 - 🌱 Enthusiast in Cyber Security; Ethical Hacking, Pentesting, Incident Response, Forensic Science and Open Source Tools
 - 🏁 **2024 goals:** I'll get a developer job
