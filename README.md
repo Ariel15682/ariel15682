@@ -14,9 +14,10 @@ I am a software developer in continuous learning
 - 📚 Self-taught Courses:
     - 111Mil: Java/Hibernate/MySQL, (2017)
     - Pildoras Informaticas (YouTube), Juan Diaz (España): (2017)
-    - Lucas Moy/ATL Academy (YouTube): Java, (2021)
+    - <a href="https://www.aprenderaprogramar.com" target="_blank">Aprender a programar:</a> (2021) "Java desde 0", "Java Nivel Avanzado 1"
     - OpenBootcamp (España): Java | Hibernate | Spring Boot | Spring MVC | Spring Data JPA | Spring Security, (2021-2023)
-    - Others: FreeCodeCamp | W3School
+    - Lucas Moy/ATL Academy (YouTube): (2021) Curso/Bootcamp Java
+    - ![image](https://cdn.emojidex.com/emoji/px32/YouTube.png?1512927079) FreeCodeCamp | W3School | La Geekipedia de Ernesto | La Tecnologia Avanza | Programando en Java | Programacion ATS
 - 💻 Backend & DevOps; API RESTful, CRUD operations, MVC development using Agile/Scrum paradigm and Clean Code
 - 🌱 Enthusiast in Cyber Security; Ethical Hacking, Pentesting, Incident Response, Forensic Science and Open Source Tools
 - 🏁 **2024 goals:** I'll get a developer job
