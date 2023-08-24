@@ -65,7 +65,6 @@ I am a software developer in continuous learning
 <br/>
 <img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Maven.png" height="15" />
 <img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Swagger.png" height="25" />
-<img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Thymeleaf.png" height="25" />
 <img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Lombok.png" height="25" />
 <br/>
 <img style="margin: 10px" src="https://github.com/Ariel15682/Ariel15682/blob/main/images/Jira.png" alt="Jira" height="15" /> 
