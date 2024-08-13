@@ -9,7 +9,6 @@ I am a software developer in continuous learning
   
 <h3>About me:</h3>
 
-- 🌎 I live in Malaga, Spain  
 - 🎓 System Analyst graduate (IFTS Nº16). Based on computer science, programming and math (2009/3 yrs-2700Hs/avg:8.79)
 - 📚 Self-taught Courses:
     - 111Mil: Java/Hibernate/MySQL, (2017)
